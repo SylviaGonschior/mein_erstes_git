@@ -14,7 +14,6 @@ what might they have a hard time understanding right away?
 
 how to contribute?
 
-__________
 
 markdown crash course:
 Isn´t today a **wonderfull** day? (make text bold)
